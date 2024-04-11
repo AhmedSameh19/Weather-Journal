@@ -39,7 +39,7 @@ This project is a solution to the weather project from the Egypt FWD Udacity Nan
     node server.js
     ```
 
-5. Open your web browser and navigate to `http://localhost:3000` to use the weather application.
+5. Open your web browser and navigate to `http://localhost:8000` to use the weather application.
 
 ## Contributing
 
